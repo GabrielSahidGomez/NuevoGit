@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+    background-image: linear-gradient(to right,blue,purple,red);
+}
+h2, h5{
+    color: springgreen;
+    margin: 20px;
+    padding: 10px;
+    
+}
+p{
+    color: wheat;
+    margin: 20px;
+    padding: 10px;
+    background-image: linear-gradient(to right,rgb(230, 17, 17),rgb(40, 40, 196),green);
+    
+}
+.footer{
+    margin: 20px;
+    padding: 10px;
+    background-image: linear-gradient(to right,rgb(230, 17, 17),rgb(40, 40, 196),green);
+} 
